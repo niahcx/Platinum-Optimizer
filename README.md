@@ -5,7 +5,9 @@
 ### Advanced Windows Optimization Suite
 
 *Maximum Performance • Lower Latency • Better Efficiency • Enhanced Privacy*
+
 ---
+
 <img width="696" height="649" alt="image" src="https://github.com/user-attachments/assets/1561f783-a258-4650-8935-8a7bc14b426c" />
 
 
